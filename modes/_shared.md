@@ -48,12 +48,10 @@ Classify every offer into one of these types (or hybrid of 2):
 
 | Archetype | Key signals in JD |
 |-----------|-------------------|
-| AI Platform / LLMOps | "observability", "evals", "pipelines", "monitoring", "reliability" |
-| Agentic / Automation | "agent", "HITL", "orchestration", "workflow", "multi-agent" |
-| Technical AI PM | "PRD", "roadmap", "discovery", "stakeholder", "product manager" |
-| AI Solutions Architect | "architecture", "enterprise", "integration", "design", "systems" |
-| AI Forward Deployed | "client-facing", "deploy", "prototype", "fast delivery", "field" |
-| AI Transformation | "change management", "adoption", "enablement", "transformation" |
+| Backend Junior | "REST", "API", "Node.js", "Python", "Java", "database", "SQL", "microservices", "server-side", "backend" |
+| Frontend Junior | "React", "Vue", "Angular", "HTML", "CSS", "UI", "components", "responsive", "browser", "frontend" |
+| Fullstack Junior | "fullstack", "full-stack", "Next.js", "end-to-end", "both frontend and backend", "MERN", "MEAN", "LAMP" |
+| AI/ML Junior | "machine learning", "LLM", "AI", "model", "inference", "fine-tuning", "embeddings", "RAG", "prompt", "OpenAI", "Hugging Face" |
 
 After detecting archetype, read `modes/_profile.md` for the user's specific framing and proof points for that archetype.
 
